@@ -74,5 +74,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Ignore original downloaded repo folder
+# Ignore original downloaded GS repo folder
 UnityGS/
+
+# Ignore local 3D asset source folder
+/[Aa]ssets/_3DAssets/
