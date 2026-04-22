@@ -1,0 +1,2 @@
+# GaussianSplats_UnityTemplate
+
