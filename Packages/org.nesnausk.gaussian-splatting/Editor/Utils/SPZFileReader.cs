@@ -188,6 +188,9 @@ namespace GaussianSplatting.Editor.Utils
 
             Vector3 UnpackSH(int idx)
             {
+                if ((uint)(idx + 2) >= (uint)packedSh.Length)
+                    return Vector3.zero;
+
                 Vector3 sh = new Vector3(packedSh[idx], packedSh[idx + 1], packedSh[idx + 2]) - new Vector3(128.0f, 128.0f, 128.0f);
                 sh /= 128.0f;
                 return sh;
