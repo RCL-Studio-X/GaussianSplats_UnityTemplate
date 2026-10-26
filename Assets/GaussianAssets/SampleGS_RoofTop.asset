@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: SampleGS_RoofTop
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 2000000
+  m_BoundsMin: {x: -35.9375, y: -7.1054688, z: -68.875}
+  m_BoundsMax: {x: 78.4375, y: 83.0625, z: 79.25}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 700b8398043f2b403227b7220413d37a
+  m_PosFormat: 2
+  m_ScaleFormat: 2
+  m_SHFormat: 3
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: 4e250ea0f80101b43b32e5e81a70d817, type: 3}
+  m_ColorData: {fileID: 4900000, guid: f53f497967643a043b28bd0fa63a870f, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 019977e021a7c3f4eb7003e09a595c99, type: 3}
+  m_SHData: {fileID: 4900000, guid: d5b1c38c86498d943bb77e0271d1f8ee, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 1e9060f8ea5546e4da9e2fc07ba5930d, type: 3}
+  m_Cameras: []
